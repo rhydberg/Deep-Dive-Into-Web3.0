@@ -20,9 +20,9 @@ Is the loaning system that you implemented centralized or decentralized? Point o
 The loaning system I have implemeted is centralized since it depends on a single all-powerful entity (here an instance of Server) to handle all the transactions. All the data flows through it and functioning of all the transactions depend solely on it. 
 
 The demerits of such a system are manyfold. 
-Firstly the system is dependant on a single entity which might act as a failure point or a bottleneck.
-Secondly there might be a human element of mistrust, corruption etc. If this program actually gets deployed I could easily tweak the RepayingMoreThanBorrowedException to act in the favour of my non-existent girlfriend (hmm yes i am a programmer).
-Thirdly the rules of the game may not be well codified and may be very inflexible to change and evolution since there is only a single body in charge.
+- the system is dependant on a single entity which might act as a failure point or a bottleneck.
+- there might be a human element of mistrust, corruption etc. If this program actually gets deployed I could easily tweak the RepayingMoreThanBorrowedException to act in the favour of my non-existent girlfriend (hmm yes i am a programmer).
+- the rules of the game may not be well codified and may be very inflexible to change and evolution since there is only a single body in charge.
 
 
 
